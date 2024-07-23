@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
-  get 'pages/help'
-  get 'pages/about'
-  get 'pages/home'
+  get 'help' => 'pages#help'
+  get 'about' => 'pages#about'
+  get 'contact' => 'pages#contact'
   get "up" => "rails/health#show", as: :rails_health_check
 
   root "pages#home"
