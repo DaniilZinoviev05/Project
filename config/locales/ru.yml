@@ -1,0 +1,9 @@
+    ru:
+      activerecord:
+        errors:
+          models:
+            user:
+              attributes:
+                password_confirmation:
+                  confirmation: "Пароль и подтверждение пароля не совпадают"
+    
