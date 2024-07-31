@@ -1,9 +1,22 @@
-    ru:
-      activerecord:
-        errors:
-          models:
-            user:
-              attributes:
-                password_confirmation:
-                  confirmation: "Пароль и подтверждение пароля не совпадают"
-    
+ru:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            name:
+              blank: "не может быть пустой"
+            email:
+              blank: "не может быть пустой"
+            password_confirmation:
+              confirmation: "не совпадает"
+    attributes:
+      user:
+        name: "Логин"
+        email: "Электронная почта"
+        password: "Пароль"
+        password_confirmation: "Подтверждение пароля"
+  errors:
+    messages:
+      blank: "не может быть пустой"
+      confirmation: "не совпадает"

@@ -34,6 +34,8 @@ h2 {
   color: $light-gray;
 }
 
+
+
 p {
   font-size: 1.1em;
   line-height: 1.7em;
@@ -50,7 +52,6 @@ p {
   font-weight: bold;
   &:hover {
     opacity: 90%;
-  	text-decoration: none;
   }
 }
 
