@@ -8,8 +8,6 @@ ru:
               blank: "не может быть пустой"
             email:
               blank: "не может быть пустой"
-            password_confirmation:
-              confirmation: "не совпадает"
     attributes:
       user:
         name: "Логин"
