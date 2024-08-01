@@ -5,6 +5,9 @@ Rails.application.routes.draw do
   get 'contact' => 'pages#contact'
   get 'signup' => 'users#new'
   get "up" => "rails/health#show", as: :rails_health_check
+  get 'login' => 'sessions#new'
+  post 'login' => 'sessions#create'
+  delete 'logout' => 'sessions#destroy'
 
   root "pages#home"
 
