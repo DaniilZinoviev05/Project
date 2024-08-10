@@ -8,11 +8,12 @@
     <%= f.text_field :name, class: 'form-control' %>
     <%= f.label :email %>
     <%= f.email_field :email, class: 'form-control' %>
-    <%= f.label :password, "Придумайте пароль" %>
-    <%= f.password_field :password, class: 'form-control' %>
+    <%= f.label :password, "Придумайте пароль" %> 
+    <%= f.password_field :password, class: 'form-control'%>
     <%= f.label :password_confirmation, "Подтвердите пароль" %>
     <%= f.password_field :password_confirmation, class: 'form-control' %>
     <%= f.submit "Создать аккаунт", class: "btn btn-primary" %>
     <% end %>
   </div>
 </div>
+

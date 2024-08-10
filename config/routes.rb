@@ -4,12 +4,12 @@ Rails.application.routes.draw do
   get 'about' => 'pages#about'
   get 'contact' => 'pages#contact'
   get 'signup' => 'users#new'
-  get "up" => "rails/health#show", as: :rails_health_check
-  get 'login' => 'sessions#new'
-  post 'login' => 'sessions#create'
-  delete 'logout' => 'sessions#destroy'
+  get 'login' => 'session#new'
+  post 'login' => 'session#create'
+  delete 'logout' => 'session#destroy'
+  get 'up' => 'rails/health#show', as: :rails_health_check
 
-  root "pages#home"
+  root 'pages#home'
 
   resources :users
 end
