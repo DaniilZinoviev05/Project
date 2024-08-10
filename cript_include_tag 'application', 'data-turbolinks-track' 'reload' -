@@ -1,0 +1,101 @@
+[33mcommit 57b1e6605af8bac2e8eb246b527bf4a4a000966a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlog-in[m[33m, [m[1;31morigin/log-in[m[33m)[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Fri Aug 9 02:57:59 2024 +0300
+
+    log_in
+
+[33mcommit 68b431f8388a4da2f3bb7201c7fbc904f41d3d96[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Thu Aug 1 23:21:25 2024 +0300
+
+    routes_for_session
+
+[33mcommit c00ca1479c20761d19b586fc7806590cb09a2ef6[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Thu Aug 1 23:15:33 2024 +0300
+
+    controller_for_sessions
+
+[33mcommit adcc6fecbb97c6a64cf37095a4be4b6965792563[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Wed Jul 31 23:58:23 2024 +0300
+
+    Flash_msg_for_signup
+
+[33mcommit dc872de1e4e41aaa8d2c7844a56e675ce9896d6e[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Wed Jul 31 23:45:10 2024 +0300
+
+    Integration_test_for_signup
+
+[33mcommit ce5720453e6762d5284b81843b37b2fe21c8884b[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Sun Jul 28 03:56:59 2024 +0300
+
+    registration, custom validation
+
+[33mcommit 2c3b666bcf747f0f3f2b625cbf95b5ad01063305[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Sat Jul 27 00:20:26 2024 +0300
+
+    Models, migration and tests
+
+[33mcommit cd081b7bb912b73cd58c16d0ff6630ceb14eb584[m[33m ([m[1;31morigin/return-branch[m[33m, [m[1;32mreturn-branch[m[33m)[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Fri Jul 26 02:01:51 2024 +0300
+
+    model user
+
+[33mcommit 76174528f412f128fb418c2a97f849c0e4bff1a0[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Thu Jul 25 00:01:40 2024 +0300
+
+    design, routes and integration test
+
+[33mcommit 313f4fa4b47a9e236fad617c14684c7d4db08e51[m[33m ([m[1;31morigin/design[m[33m, [m[1;32mdesign[m[33m)[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Wed Jul 24 01:53:52 2024 +0300
+
+    design and routes
+
+[33mcommit 10dfd686eec1bc47513cf2ddd8671839753c4ae4[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Wed Jul 24 01:53:26 2024 +0300
+
+    design and routes
+
+[33mcommit bb9d53056bb329b967ee159f7eee43a59ee84df2[m[33m ([m[1;32mmodeling-users[m[33m)[m
+Author: DaniilZinoviev05 <DaniilZinoviev05>
+Date:   Tue Jul 23 23:27:47 2024 +0300
+
+    small changes
+
+[33mcommit 4cb788fc30a3506b38a61fe31e9b509e2743b78e[m
+Author: DaniilZinoviev05 <DaniilZinoviev05>
+Date:   Sun Jul 21 23:01:12 2024 +0300
+
+    Test functions
+
+[33mcommit 65e0fdc2ac96db7490513d6b427aea73fefdf5b4[m[33m ([m[1;32mpages[m[33m)[m
+Author: DaniilZinoviev05 <DaniilZinoviev05>
+Date:   Sat Jul 20 21:35:21 2024 +0300
+
+    Modified programm and make test
+
+[33mcommit 094ae8397f046c79cf739fc7c3269b01502817f8[m[33m ([m[1;31morigin/pages[m[33m)[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Wed Jul 17 01:17:00 2024 +0300
+
+    Generate controllers
+
+[33mcommit 684c719821fd7f532797a88a4560c304d533644d[m
+Author: DaniilZinoviev05 <danielzinoviev@yandex.ru>
+Date:   Wed Jul 17 00:54:37 2024 +0300
+
+    Modified Gemfile
+
+[33mcommit 6943f8474600c3125a5e010073816178b6a18b8e[m
+Author: DaniilZinoviev05 <DaniilZinoviev05>
+Date:   Tue Jul 16 18:23:30 2024 +0300
+
+    Initial commit
