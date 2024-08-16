@@ -14,7 +14,7 @@ Ruby: >= 3.3.4; Rails: 7.1.3; SQLite: >= 1.5
 ## Copy the repository
 
 ```
-git clone https://github.com/DaniilZinoviev05/Project.git
+git clone https://github.com/DaniilZinoviev05/Simple-Copy-Of-Twitter.git
 ```
 
 ## Install dependent gems
