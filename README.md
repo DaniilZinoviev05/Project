@@ -1,24 +1,31 @@
-# README
+# About 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is my first in ruby ​​on rails. Based on the book by Michael Hartl.
 
-Things you may want to cover:
+# Requirements
+Preferably Linux
 
-* Ruby version
+`
+Ruby: >= 3.3.4; Rails: 7.1.3; SQLite: >= 1.5
+`
 
-* System dependencies
+# How to install 
 
-* Configuration
+## Copy the repository
 
-* Database creation
+```
+git clone https://github.com/DaniilZinoviev05/Project.git
+```
 
-* Database initialization
+## Install dependent gems
 
-* How to run the test suite
+```
+bundle install 
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+## Create and migrate db (SQLite)
 
-* Deployment instructions
+```
+rails db:create db:migrate
+```
 
-* ...
