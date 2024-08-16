@@ -12,4 +12,6 @@ Rails.application.routes.draw do
   root 'pages#home'
 
   resources :users
+  resources :account_activations, only: [:edit]
+  resources :microposts, only: [:create, :destroy]
 end
